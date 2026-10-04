@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+valkyrie.db
+valkyrie.db-wal
+valkyrie.db-shm
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
